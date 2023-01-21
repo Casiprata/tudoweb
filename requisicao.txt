@@ -1,0 +1,3 @@
+1-Criação dos requisitos funcionais
+2-Criação dos requisitos não funcionais
+3-Criação de prototipo para o app,
